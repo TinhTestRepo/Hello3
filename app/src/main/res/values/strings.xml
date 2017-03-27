@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Hello3</string>
     <string name="action_settings">Settings</string>
+    <string name="firstcheckbox">FirstCheckBox</string>
     <string name="firstbutton">firstButton</string>
+    <string name="fristradiobutton">FristRadioButton</string>
 </resources>
